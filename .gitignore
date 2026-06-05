@@ -1,0 +1,4 @@
+# Trained Random Forest pickles are distributed as GitHub Release assets
+# (models-v1 release), not committed here.
+*.pkl
+__pycache__/
